@@ -63,14 +63,14 @@ creditcard-fraud-ml/
 
 3. 輸出 HTML 報告 (隱藏程式碼) | Generate HTML report (hide code)
    ```bash
-   jupyter nbconvert --to html --no-input notebooks/creditcard_fraud_analysis.ipynb --output reports/creditcard_fraud_analysis.html
+   jupyter nbconvert --to html --no-input decision_tree_svm_ccFraud_showcase.ipynb --output decision_tree_svm_ccFraud_showcase.html
    ```
 
 ---
 
 ## 🌐 GitHub Pages 報告展示 | GitHub Pages Report
 
-👉 **完整報告 (HTML)** | [**Full Report (HTML)**](https://<你的GitHub帳號>.github.io/creditcard-fraud-ml/reports/creditcard_fraud_analysis.html)
+👉 **完整報告 (HTML)** | [**Full Report (HTML)**](https://hsuanlion.github.io/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.html)
 
 ---
 
