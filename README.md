@@ -6,7 +6,7 @@
 
 | Project | Description | Techniques |
 |---------|-------------|------------|
-| [Fraud Detection](./ML_Project_1_XGBoost_Fraud_Detection) | 信用卡詐欺檢測 | XGBoost, Imbalanced Data |
+| [Fraud Detection](./ML/creditcard-fraud-ml/) | 信用卡詐欺檢測 | XGBoost, Imbalanced Data |
 | [Customer Churn](./ML_Project_2_Logistic_Regression_Churn) | 客戶流失預測 | Logistic Regression |
 | [House Price Prediction](./ML_Project_3_Regression_House_Price) | 房價預測 | Linear Regression, Feature Engineering |
 
