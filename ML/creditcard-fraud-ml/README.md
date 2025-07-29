@@ -70,7 +70,7 @@ creditcard-fraud-ml/
 
 ## 🌐 GitHub Pages 報告展示 | GitHub Pages Report
 
-👉 **完整報告 (HTML)** | [**Full Report (HTML)**](https://hsuanlion.github.io/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.html)
+👉 **完整報告 (HTML)** | [**Full Report (HTML)**](https://github.com/hsuanlion/data-science-portfolio/blob/main/ML/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.html)
 
 ---
 
