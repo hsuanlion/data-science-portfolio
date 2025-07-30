@@ -72,12 +72,8 @@ creditcard-fraud-ml/
 
 👉 **完整報告 (HTML)** | [**Full Report (HTML)**](https://hsuanlion.github.io/data-science-portfolio/ML/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.html)
 
-**完整報告2 (HTML)** | [**Full Report (HTML)**](
-https://nbviewer.org/github/hsuanlion/data-science_portfolio/blob/main/ML/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.ipynb)
 
-[🔗 Fraud Detection Project (HTML Showcase)](https://hsuanlion.github.io/01_public_ds_portfolio/ML/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.html)
-
-
+test[test](https://nbviewer.org/github/hsuanlion/data-science-portfolio/blob/main/ML/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.ipynb)
 ---
 
 ## 🔍 未來優化方向 | Future Improvements
