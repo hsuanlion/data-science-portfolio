@@ -6,6 +6,7 @@
 
 | Project | Description | Techniques |
 |---------|-------------|------------|
+| [RAG with Hugging Face（notebook)](https://nbviewer.org/github/hsuanlion/data-science-portfolio/blob/main/LLM/RAG_with_Hugging_Face/RAG_with_Hugging_Face.ipynb) | RAG with Hugging Face | Intelligent Q&A for company policies using DPR + FAISS retrieval and seq2seq generation (GPT2) |
 | [Fraud Detection（notebook)](https://nbviewer.org/github/hsuanlion/data-science-portfolio/blob/main/ML/creditcard-fraud-ml/decision_tree_svm_ccFraud_showcase.ipynb) | 信用卡詐欺檢測 | Decision Tree & SVM, Imbalanced Data |
 | [Weather Forecast（notebook)](https://nbviewer.org/github/hsuanlion/data-science-portfolio/blob/main/ML/weather-forecast/weather-forecast.ipynb) | 預測天氣 | Random Forest/Decision Tree |
 | [Titanic Survival Prediction（notebook)](https://nbviewer.org/github/hsuanlion/data-science-portfolio/blob/main/ML/titanic-survival-prediction/titanic-survival-prediction.ipynb) | 鐵達尼號生存預測 | 使用Random Forest/Logistic Regression，搭配使用GridSearch, cross validation |
